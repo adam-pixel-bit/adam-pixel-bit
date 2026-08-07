@@ -30,8 +30,9 @@
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="linkedin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram logo"  />
-  <img width="12" />
+    <a href="https://www.instagram.com/katasijon">
+          <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="instagram logo"  /><img width="12" />
+    </a>
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
 
